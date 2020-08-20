@@ -17,7 +17,7 @@ git add . -->to add the changes to the features branch
 
 3.Add an entry to the file contributers.txt in your new branch.
 
-echo "ddabbeeru@gmail.com">>'contributers.txt'-->adding contents to file
+echo "dabbiru.devops@gmail.com">>'contributers.txt'-->adding contents to file
 
 
 4.Commit your changes using the message "airplane story".
